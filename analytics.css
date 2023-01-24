@@ -44,14 +44,6 @@
     box-sizing: border-box;
 }
 
-.emotion-graph {
-  position: absolute;
-  right: 0px;
-  width: 300px;
-  border: 3px solid #73AD21;
-  padding: 10px;
-}
-
 .column,
 .columns {
     width: 100%;
@@ -234,7 +226,7 @@ body {
     line-height: 1.6;
     font-weight: 400;
     font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: rgb(255 252 252);
+    color: #67001F;
     background-color: black;
 }
 
